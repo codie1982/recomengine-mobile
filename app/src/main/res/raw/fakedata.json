@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "type": "human_message",
+      "message": "merhaba makine"
+    },
+    {
+      "type": "system_message",
+      "message": "Merhaba İnsan"
+    }
+  ]
+}
